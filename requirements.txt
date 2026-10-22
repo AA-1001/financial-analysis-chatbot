@@ -1,0 +1,2 @@
+# Core data loading and table operations; all other imports use the Python standard library.
+pandas>=2.0,<3.0

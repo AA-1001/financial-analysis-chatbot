@@ -1,0 +1,10 @@
+Company,Fiscal Year,Fiscal Year End,Total Revenue,Net Income,Total Assets,Total Liabilities,Operating Cash Flow,Source Filing,Units
+Microsoft,2023,2023-06-30,211915,72361,411976,205753,87582,https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-20230630.htm,USD millions
+Microsoft,2024,2024-06-30,245122,88136,512163,243686,118548,https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/msft-20240630.htm,USD millions
+Microsoft,2025,2025-06-30,281724,101832,619003,275524,136162,https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm,USD millions
+Tesla,2023,2023-12-31,96773,14974,106618,43009,13256,https://www.sec.gov/Archives/edgar/data/1318605/000162828024002390/tsla-20231231.htm,USD millions
+Tesla,2024,2024-12-31,97690,7153,122070,48390,14923,https://www.sec.gov/Archives/edgar/data/1318605/000162828025003063/tsla-20241231.htm,USD millions
+Tesla,2025,2025-12-31,94827,3855,137806,54941,14747,https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm,USD millions
+Apple,2023,2023-09-30,383285,96995,352583,290437,110543,https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm,USD millions
+Apple,2024,2024-09-28,391035,93736,364980,308030,118254,https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm,USD millions
+Apple,2025,2025-09-27,416161,112010,359241,285508,111482,https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm,USD millions
