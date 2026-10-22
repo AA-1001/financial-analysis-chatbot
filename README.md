@@ -220,6 +220,6 @@ Test results should be produced by running the command locally rather than relyi
 
 ## Author
 
-**[Your Name]** · [LinkedIn profile](https://www.linkedin.com/in/YOUR-PROFILE/) · [GitHub profile](https://github.com/YOUR_GITHUB_USERNAME)
+[LinkedIn profile](https://www.linkedin.com/in/abdullah-asif-948b71246/)
 
 *Personal portfolio project demonstrating the foundations of a structured financial question-answering system.*
